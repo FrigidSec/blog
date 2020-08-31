@@ -1,4 +1,1 @@
-## FrigidSec Blog
-
-WIP
-
+# blog

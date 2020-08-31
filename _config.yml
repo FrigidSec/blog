@@ -1,1 +1,25 @@
-theme: jekyll-theme-hacker
+title:              FrigidSec Blog
+email:              frigidsec@gmail.com
+description:        Cybersecurity Community Blog
+author:             X64M | FrigidSec
+#baseurl:            ""
+#url:                ""
+
+# Social Profiles
+twitter_username:   frigidsec
+github_username:    FrigidSec
+#facebook_username:  StartBootstrap
+#instagram_username:  
+linkedin_username: FrigidSec
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
