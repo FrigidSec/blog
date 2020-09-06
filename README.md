@@ -3,8 +3,7 @@
 # Blog
 
 ---
-Online Branch : Deployment
-
+Online Branch : Deployment @ [https://frigidsec.github.io/blog/](https://frigidsec.github.io/blog/)
 ---
 
-### Work In Progress
+### Deploment Stage 1
