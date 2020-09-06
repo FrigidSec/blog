@@ -4,7 +4,7 @@ title: "FirstPost : FrigidSec Blog"
 author: Saket Upadhyay
 subtitle: "Topics, Writing Style, Peer Review, GitHub Structure, CoC and everything in between"
 date: 2020-08-30 04:23:13 
-background: '/img/posts/01.jpg'
+background: '/img/posts/def.jpg' 
 ---
 
 Welcome to the first post of **FrigidSec Blog**!
@@ -51,7 +51,7 @@ It is based on Ruby - Jekyll stack and the posts are written in Markdown in the 
 
 The `master-branch` is reserved for front matter presentation and `post-submission` from fellow members.
 
-Anyone who wants to submit their article for the Community Blog should `fork` the repo and `push` the article in `Submission` Directory of the `master` branch within a new folder named as --  `date_title` *(for example: 2020-08-12\_firstblog)*
+Anyone who wants to submit their article for the Community Blog should `fork` the repo and `push` the article in `Submission` Directory of the `master` branch within a new folder named as --  `date_title` *(for example 2020-08-12\_firstblog)*
 
 Following is the structure of the general article submission folder structure :
 
@@ -103,9 +103,9 @@ After the article is accepted and the PR is accepted, we will internally pull th
 
 3. Credits should be given to Author, Editors, Peers (Reviewers)
 
-4. Propper Citation should be given to all resources
+4. Proper Citation should be given to all resources
 
-5. All the work is under MIT License by Default. The author can request if needed otherwise.
+5. All the work is under `CC4.0BY` License by Default. The author can request if needed otherwise.
 
 > Complete CoC, CoE can be found @ [FrigidSec/Documents/CodeOfConduct/PublishingInBlog.pdf]() 
 > All documents are 'Work in Progress' as of 31st Aug 2020
@@ -113,4 +113,8 @@ After the article is accepted and the PR is accepted, we will internally pull th
 ## Closing words 
 
 That being said, we look forward to your submissions for the blog!
+
+---
+
+> All current and potential writers, by requesting article publication in FrigiSec Blog are assumed to have accepted the Code of Conduct Mentioned in the Documents repository [HERE](https://github.com/FrigidSec/Documents) 
 
