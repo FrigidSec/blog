@@ -105,9 +105,9 @@ After the article is accepted and the PR is accepted, we will internally pull th
 
 4. Proper Citation should be given to all resources
 
-5. All the work is under `CC4.0BY` License by Default. The author can request if needed otherwise.
+5. All the work is under `CCBY4.0` License by Default. The author can request if needed otherwise.
 
-> Complete CoC, CoE can be found @ [FrigidSec/Documents/CodeOfConduct/PublishingInBlog.pdf]() 
+> Complete CoC can be found @ GitHub/FrigidSec/Documents [DOWNLOAD PDF](https://github.com/FrigidSec/Documents/blob/master/CodeOfConduct/Blog/FrigidBlog_CodeOfConduct_v1.pdf) 
 > All documents are 'Work in Progress' as of 31st Aug 2020
 
 ## Closing words 
