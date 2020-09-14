@@ -1,0 +1,3 @@
+- [x] Review
+- [x] Directory Struct.
+- [ ] Publish (Queued)
