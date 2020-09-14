@@ -1,1 +1,5 @@
+Just 3 minor changes-
 
+Adding spaces after each full stop in the "What is Active Directory" paragraph.
+The last line of the "Domain Controller" paragraph: "... the entire network is toast **and** you could do anything you want." (adding the and)
+The last line of the "Trees" paragraph: "...domains fall into a parent-child relationship, **where** the child domain **takes** on the name of the parent." (Changing those 2 words for better grammar).
