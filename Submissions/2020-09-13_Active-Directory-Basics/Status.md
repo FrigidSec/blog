@@ -1,3 +1,3 @@
 - [x] Review
 - [x] Directory Struct.
-- [x] Published
+- [x] Published [HERE](https://frigidsec.github.io/blog/2020/09/17/activedirbasics.html)
