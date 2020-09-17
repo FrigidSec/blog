@@ -138,4 +138,4 @@ So we see, func() function is called under certain circumstances from main.
 Interesting binary! It reminded me that sometimes things have an easy workaround too!
 
 ---
-> This article is written by [Anirban Chakraborty]() and Taken from [This Medium Post](https://medium.com/@anir08/college-ctf-reversing-challenge-17f090dfe5dc) by the author hence do not comes under Peer Review Policy. To check the profile of every writer of FrigidSec-Blog please visit [HERE]()
+> This article is written by [Anirban Chakraborty]() and Taken from [This Medium Post](https://medium.com/@anir08/college-ctf-reversing-challenge-17f090dfe5dc) by the author hence do not comes under Peer Review Policy. To check the profile of every writer of FrigidSec-Blog please visit [HERE](https://github.com/FrigidSec/blog/tree/master/Writers)

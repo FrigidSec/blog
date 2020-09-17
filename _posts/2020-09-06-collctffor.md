@@ -81,4 +81,4 @@ Stay Hunting 💻
 
 ---
 
-> This article is written by [Satyam Kanojiya]() and Taken from [This Medium Post](https://medium.com/@satyam29k/frigidsec-forensics-challenge-aa780adc2fd0) by the author hence do not come under Peer Review Policy. To check the profile of every writer of FrigidSec-Blog please visit [HERE]()
+> This article is written by [Satyam Kanojiya]() and Taken from [This Medium Post](https://medium.com/@satyam29k/frigidsec-forensics-challenge-aa780adc2fd0) by the author hence do not come under Peer Review Policy. To check the profile of every writer of FrigidSec-Blog please visit [HERE](https://github.com/FrigidSec/blog/tree/master/Writers)
